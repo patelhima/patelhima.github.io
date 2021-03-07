@@ -97,3 +97,6 @@ button.btn.btn-primary:hover{
 .gallery .cc-porfolio-image figure figcaption, .gallery .cc-porfolio-image figure figcaption > a:hover {
     cursor: pointer;
 }
+
+.website {
+	color: #007bff;
